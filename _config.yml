@@ -1,0 +1,14 @@
+layout_spectrum: 0.5344911573920399
+typography_spectrum: 0.9713818202726543
+color:
+  brandStrength: 0.029486082261428237
+  lightness: 0.7913009007461369
+  saturation: 0.9719148690346628
+  rhythmicContrast: 0.729191665770486
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: ixloc.tv
