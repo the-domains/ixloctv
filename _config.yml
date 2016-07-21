@@ -1,16 +1,16 @@
-typography_spectrum: 0.9713818202726543
+typography_spectrum: 0.16841278923675418
 color:
-  brandStrength: 0.029486082261428237
-  lightness: 0.7913009007461369
-  saturation: 0.9719148690346628
-  rhythmicContrast: 0.729191665770486
+  brandStrength: 0.6731527501251549
+  lightness: 0.7872093291953206
+  saturation: 0.4179150308482349
+  rhythmicContrast: 0.09267469891346991
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.5344911573920399
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.7931906315498054
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f630297c-3caa-4846-ac1b-42f84fd25ccd.png
 name: ixloc.tv
